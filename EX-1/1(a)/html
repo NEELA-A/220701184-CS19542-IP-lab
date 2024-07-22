@@ -1,0 +1,192 @@
+<html>
+<head>
+   <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+   <div class="container">
+       <div class="left">
+         <div class="profiletext">
+         <div class="profileimg">
+         <img src="C:\Users\neela\OneDrive\Documents\logo2.png" alt="">
+          </div>
+<h2> NEELA </br><span> Web Developer</span> </h2>
+         </div>
+<div class="info">
+</br>
+</br>
+<h3 class="title"> Contact Info</h3>
+<ul>
+<li>
+<span class="icon"><ion-icon name="call-outline"></ion-icon></span>
+<span class="text">9585842808</span>
+</li>
+<li>
+<span class="icon"><ion-icon name="mail-open-outline"></ion-icon></span>
+<span class="text">neelaofficial18@gmail.com</span>
+</li>
+<li>
+<span class="icon"><ion-icon name="logo-linkedin"></ion-icon></span>
+<span class="text">www.linkedin.com/in/neela-a-792934257</span>
+</li>
+<li>
+<span class="icon"><ion-icon name="location-outline"></ion-icon></span>
+<span class="text">Chennai,TamilNadu,India</span>
+</li>
+</ul>
+</div></br></br></br>
+<div class="info education">
+<h3 class="title">Education</h3>
+<ul>
+<li>
+<h5>2022 - 2026</h5>
+<h4>B.E Computer Science and Engineering</h4>
+<h4>Rajalakshmi Engineering College</h4>
+</li>
+<li>
+<h5>2021 - 2022</h5>
+<h4>12<sub>th</sub></h4>
+<h4>Velammal Matriculation Higher Seconday School</h4>
+</li>
+<li>
+<h5>2019 - 2020</h5>
+<h4>10<sub>th</sub></h4>
+<h4>Velammal Matriculation Higher Seconday School</h4>
+</li>
+</ul>
+</div>
+</br></br></br>
+<div class="info language">
+<h3 class="title">Languages</h3>
+<ul>
+<li>
+<span class="text">English</span>
+<span class="percent">
+<div style="width:85;">
+</div>
+</span>
+</li>
+<li>
+<span class="text">Tamil</span>
+<span class="percent">
+<div style="width:95;">
+</div>
+</span>
+</li>
+</ul>
+</div>
+</div>
+       <div class="right">
+<div class="about">
+<h2 class="title2">Profile</h2>
+<p>
+Passionate web developer with a strong background in HTML, CSS, JavaScript, and modern web development frameworks. Dedicated to creating dynamic, responsive websites and applications that provide a seamless user experience. Eager to leverage my skills and enthusiasm to contribute to innovative projects and continuously learn and grow in the ever-evolving field of web development.</br></br>
+
+Over the years, I have developed a keen eye for detail and a commitment to delivering high-quality, user-friendly websites and applications. I take pride in creating responsive designs that provide an excellent user experience across all devices. </br></br>
+
+When I'm not coding, you can find me exploring new tech blogs, participating in coding challenges, or contributing to open-source projects. I'm excited about the endless possibilities in web development and look forward to being part of impactful and groundbreaking projects.
+</br></br>
+</p>
+</div>
+<div class="about skills">
+<h2 class="title2">Professional Skills</h2>
+</br>
+<div class="box">
+<h4>HTML</H4>
+<div class="percent">
+<div style="width: 98%;"></div>
+</div>
+</div>
+</br></br>
+
+<div class="box">
+<h4>CSS</H4>
+<div class="percent">
+<div style="width: 95%;"></div>
+</div>
+</div>
+</br></br>
+
+<div class="box">
+<h4>JavaScript</H4>
+<div class="percent">
+<div style="width: 96%;"></div>
+</div>
+</div>
+</br></br>
+
+<div class="box">
+<h4>Java</H4>
+<div class="percent">
+<div style="width: 90%;"></div>
+</div>
+</div>
+</br></br>
+
+<div class="box">
+<h4>Python</H4>
+<div class="percent">
+<div style="width: 95%;"></div>
+</div>
+</div>
+</br></br>
+
+<div class="box">
+<h4>sql</H4>
+<div class="percent">
+<div style="width: 80%;"></div>
+</div>
+</div>
+</br></br>
+
+<div class="box">
+<h4>C</H4>
+<div class="percent">
+<div style="width: 90%;"></div>
+</div>
+</div>
+</br></br>
+</div>
+<div class="about interest">
+<h2 class="title2">Interests</h2>
+<ul>
+<li><ion-icon class name="car-sport-outline"></ion-icon>
+Traveling
+</li>
+<li><ion-icon class name="book-outline"></ion-icon>
+Reading
+</li>
+<li><ion-icon class name="film-outline"></ion-icon>
+Movies
+</li>
+<li><ion-icon class name="headset-outline"></ion-icon>
+Listening Music
+</li>
+</ul>
+</div>
+</br></br>
+<div class="about internship">
+<h2 class="title2">Internship</h2>
+<ul>
+<li>Jan 1 2024-Feb 5 2024
+<p> 1 month AICTE OIB-SIP internship in Python programming and Java Development</p>
+</li>
+</ul>
+</div>
+</br></br>
+<div class="about courses">
+<h2 class="title2">Course Completions</h2>
+<ul>
+<li>Database Programming with SQL and PL/SQL in Oracle Academy</li> 
+<li>NPTEL certifications</li>
+<li>MongoDB Self Learning </li>
+</ul>
+</div>
+
+
+
+</div>
+   </div>
+</body>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script></html>
