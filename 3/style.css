@@ -1,0 +1,84 @@
+body{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(232,215,180,1) 100%);
+    font-family: 'Poppins', sans-serif; 
+}
+
+#form{
+    width:600px;
+    margin:20vh auto 0 auto;
+    background-color:whitesmoke;
+    border-radius: 100px;
+    padding:30px;
+    opacity: 0.8;
+    margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+    color:#22c1c3;
+}
+
+#form button{
+    background-color: #22c1c3;
+    color:white;
+    border: 1px solid #22c1c3;
+    border-radius: 5px;
+    padding:10px;
+    margin:20px 0px;
+    cursor:pointer;
+    font-size:20px;
+    width:100%;
+}
+
+.input-group{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.input-group input{
+    border-radius: 5px;
+    font-size:20px;
+    margin-top:5px;
+    padding:10px;
+    border:1px solid rgb(34,193,195) ;
+}
+
+.input-group input:focus{
+    outline:0;
+}
+
+.input-group .error{
+    color:rgb(242, 18, 18);
+    font-size:16px;
+    margin-top: 5px;
+}
+
+.input-group.success input{
+    border-color: #0cc477;
+    border-width: 3px;
+
+}
+
+.input-group.error input{
+    border-color:rgb(206, 67, 67);
+    border-width: 3px;
+}
+
+select
+{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    font-size:20px;
+    margin-top:5px;
+    padding:10px;
+    border:1px solid rgb(34,193,195) ;
+}
+::placeholder
+{
+    font-size: 20px;
+    color: black;
+}
