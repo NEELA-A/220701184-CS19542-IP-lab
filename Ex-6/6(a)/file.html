@@ -1,0 +1,25 @@
+<html>
+    <body>
+        <div id="doc">
+            <h1>XMLHttpRequest</h1>
+            <button type="button" onclick="loadXMLDoc()">Click here</button>
+        </div>
+    </body>
+    <head>
+        <script>
+            function loadXMLDoc()
+            {
+                var http=new XMLHttpRequest();
+                http.onreadystatechange=function()
+                {
+                    if(this.readyState==4 && this.status==200)
+                    {
+                        document.getElementById("doc").innerHTML=this.responseText;
+                    }
+                };
+                http.open("GET","rec.txt",true);
+                http.send();
+            }
+        </script>
+    </head>
+</html>
